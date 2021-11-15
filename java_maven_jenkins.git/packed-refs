@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+4e982cff06d4c498343410602b985a4398d21044 refs/heads/dependabot/maven/junit-junit-4.13.1
+05c1681086360fb3451e7b6efba847eca7f12ff4 refs/heads/dependabot/maven/org.apache.logging.log4j-log4j-core-2.13.2
+d520a1df91d83819b9b1f0f0a51e6f5701661d12 refs/heads/master
+05c1681086360fb3451e7b6efba847eca7f12ff4 refs/pull/1/head
+f2b35ecd29a52da0b4d7a20c9e06864417967e72 refs/pull/1/merge
+4e982cff06d4c498343410602b985a4398d21044 refs/pull/2/head
+627c483123770b52549646dedc6ad6a803529282 refs/pull/2/merge
